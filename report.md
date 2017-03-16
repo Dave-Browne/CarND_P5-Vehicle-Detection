@@ -148,8 +148,6 @@ In the second image, both cars are detected by the sliding windows. There are al
 
 ![alt text][image5]
 
-_____CONTINUE FROM HERE___________
-
 ## Video Implementation
 
 The output video works fairly well at detecting cars but suffers from false positives. A better classifier would improve the result.
